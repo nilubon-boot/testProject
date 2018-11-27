@@ -1,1 +1,2 @@
 1. Created a new file called test.txt
+2. Changed from GitHub remote repo.
